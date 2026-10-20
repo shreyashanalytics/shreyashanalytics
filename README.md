@@ -1,5 +1,14 @@
-## Hi there 👋
+   # Hi, I'm Shreyash 👋
+   Aspiring Data Engineer | Airflow · PySpark · Kafka · dbt · SQL · Docker
 
+   ## Featured projects
+   - **[Medallion Lakehouse Pipeline](https://github.com/shreyashanalytics/medallion-lakehouse-pipeline)**: batch ETL with Airflow, PySpark, Soda quality gates and a dbt star schema
+   - **[Real-Time Clickstream Pipeline](https://github.com/shreyashanalytics/real-time-clickstream-pipeline)**: Kafka, Spark Structured Streaming, ClickHouse and Superset
+
+   ## Skills
+   Python · SQL · Apache Spark · Kafka · Airflow · dbt · ClickHouse · Docker
+
+   📫 LinkedIn: <www.linkedin.com/in/shreykh>
 <!--
 **shreyashanalytics/shreyashanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
